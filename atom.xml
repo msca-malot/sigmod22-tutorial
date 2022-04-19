@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Spatial IoT Data Quality Tutorial</title>
+ <link href="https://msca-malot.github.io/sigmod22-tutorial/atom.xml" rel="self"/>
+ <link href="https://msca-malot.github.io/sigmod22-tutorial"/>
+ <updated>2022-04-19T10:07:06+02:00</updated>
+ <id>https://msca-malot.github.io</id>
+ <author>
+   <name>Huan Li</name>
+   <email>lihuan@cs.aau.dk</email>
+ </author>
+
+ 
+
+</feed>
